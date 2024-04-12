@@ -5,7 +5,7 @@ How to Compile and Run
 Install Visual Studio: Make sure you have Visual Studio installed on your system. You can download it from here.
 
 Clone the Repository: Clone the repository to my local machine using Git or download the zip file and extract it.
-
+https://github.com/JoshuaVenture/Poe-part-1-doc/tree/master
 
 
 Open Solution in Visual Studio: Open Visual Studio and navigate to File > Open > Project/Solution. Then select the recipe-application.sln file from the cloned repository.
